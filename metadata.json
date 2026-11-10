@@ -1,0 +1,6 @@
+{
+  "name": "SmartSign – Document & Signature Studio",
+  "description": "Professional multi-page PDF & image signature editor with automatic background removal, precise placement, and high-quality PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
